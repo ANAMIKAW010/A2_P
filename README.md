@@ -90,3 +90,11 @@ data/*.csv                     Local reference inventories
 data/run_history.json          Created on first saved analysis
 requirements.txt
 ```
+
+## Screenshots
+![Home page](screenshots/Screenshot_0.png)
+![Analysis result](screenshots/Screenshot_1.png)
+![Avian Acoustics](screenshots/Screenshot_2.png)
+![Mammalian Acoustics](screenshots/Screenshot_3.png)
+![Marine and Amphibian Acoustics](screenshots/Screenshot_4.png)
+![Run History](screenshots/Screenshot_5.png)

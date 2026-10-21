@@ -1,0 +1,8 @@
+streamlit>=1.36
+pandas>=2.1
+numpy>=1.26
+librosa>=0.10.2
+soundfile>=0.12
+plotly>=5.22
+requests>=2.32
+beautifulsoup4>=4.12

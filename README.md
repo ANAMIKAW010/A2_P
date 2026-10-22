@@ -90,6 +90,16 @@ data/*.csv                     Local reference inventories
 data/run_history.json          Created on first saved analysis
 requirements.txt
 ```
+## Team and ownership
+
+| Student | Page | CSV |
+|---|---|---|
+
+| Prarthana Manju Deepa | `pages/2_Mammalian_Acoustics.py` | `data/mammalian_bioacoustics.csv` |
+| Anamika Murali | `pages/3_Marine_Amphibians.py` | `data/marine_amphibian_bioacoustics.csv` |
+| Abhijeet Kumar & Manoj Kumar | `pages/1_Avian_Acoustics.py` | `data/avian_bioacoustics.csv` |
+
+| Shared | `Home.py`, `core/`, `pages/4_Run_History.py` | `data/run_history.json` (created on first analysis) |
 
 ## Screenshots
 ![Home page](screenshots/Screenshot_0.png)
